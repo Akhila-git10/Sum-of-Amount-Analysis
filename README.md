@@ -15,7 +15,8 @@ This repository contains a Power BI report that analyzes the **Sum of Amount** a
 - `Sum of Amount Analysis.pbix` – The Power BI report file
 
 ## 📸 Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7d3cc27-5a78-4ddd-9f08-6a694e96b107" />
+<img width="1406" height="725" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/3035dd6b-2788-484d-8744-18b9d7e0cfcd" />
+
 
 
 ## 🚀 How to Use
